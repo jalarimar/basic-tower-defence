@@ -1,0 +1,17 @@
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Assembly-CSharp.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/obj/Debug/Assembly-CSharp.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/obj/Debug/Assembly-CSharp.dll.mdb
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/UnityEngine.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/UnityEditor.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/UnityEngine.UI.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Unity.DataContract.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Mono.Cecil.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Unity.CecilTools.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/maxeonyx/Documents/TowerDefense-Part1-Starter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
