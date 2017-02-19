@@ -1,4 +1,43 @@
 sceneSetups:
-- path: Assets/Scenes/GameScene.unity
+- path: Assets/Scenes/Hscene.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/Ascene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Pscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/P1scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Yscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Bscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Iscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Rscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Tscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/H1scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Dscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/A1scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Y1scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/EndGameScene.unity
+  isLoaded: 0
+  isActive: 0

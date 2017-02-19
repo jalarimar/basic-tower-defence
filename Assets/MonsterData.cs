@@ -5,8 +5,11 @@ using System.Collections.Generic;
 
 [System.Serializable]
 public class MonsterLevel {
-	public int Cost;
+    public int levelNumber;
+    public int Cost;
 	public GameObject visualization;
+	public GameObject bullet;
+	public float fireRate;
 }
 
 
@@ -50,8 +53,6 @@ public class MonsterData : MonoBehaviour {
 		CurrentLevel = GetNextLevel () ?? CurrentLevel;
 	}
 
-
-
 	// Runs once, even in the editor
 	void OnEnable() {
 		CurrentLevel = Levels [0];
@@ -61,9 +62,9 @@ public class MonsterData : MonoBehaviour {
 	void Start () {
 	
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update () {
 	
 	}
 }
